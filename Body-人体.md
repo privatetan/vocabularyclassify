@@ -1,0 +1,59 @@
+# Body-人体
+
+## Appearance 外貌
+
+|      单词       |       音标[英]        |       音标[美]        | 释义 |
+| :-------------: | :-------------------: | :-------------------: | :--: |
+|      head       |         /hed/         |         /hed/         |  头  |
+|      hair       |        /heər/         |         /her/         | 头发 |
+|      brow       |        /braʊ/         |        /braʊ/         | 眉毛 |
+|       eye       |         /aɪ/          |         /aɪ/          | 眼睛 |
+|     eyelid      |       /ˈaɪ.lɪd/       |       /ˈaɪ.lɪd/       | 眼皮 |
+|     eyeball     |      /ˈaɪ.bɔːl/       |      /ˈaɪ.bɑːl/       | 眼球 |
+|      pupil      |      /ˈpjuː.pəl/      |      /ˈpjuː.pəl/      | 瞳孔 |
+|     vision      | /ˈvɜː.ʃən/ /ˈvɜː.ʒən/ | /ˈvɝː.ʒən/ /ˈvɝː.ʃən/ | 视觉 |
+|      nose       |        /nəʊz/         |        /nəʊz/         | 鼻子 |
+|     nostril     |      /ˈnɒs.trəl/      |     /ˈnɑː.strəl/      | 鼻孔 |
+|    vibrissa     |                       |                       | 鼻毛 |
+|    nosebleed    |     /ˈnəʊz.bliːd/     |     /ˈnoʊz.bliːd/     | 鼻血 |
+|      smell      |        /smel/         |        /smel/         | 嗅觉 |
+|      mouth      |        /maʊθ/         |        /maʊθ/         | 嘴巴 |
+|      tooth      |        /tuːθ/         |        /tuːθ/         | 牙齿 |
+|       lip       |         /lɪp/         |         /lɪp/         | 嘴唇 |
+|     tongue      |         /tʌŋ/         |         /tʌŋ/         | 舌头 |
+|      taste      |        /teɪst/        |        /teɪst/        | 味觉 |
+|       ear       |         /ɪər/         |         /ɪr/          | 耳朵 |
+| auditory meatus |                       |                       | 耳道 |
+|     eardrum     |      /ˈɪə.drʌm/       |      /ˈɪr.drʌm/       | 耳膜 |
+|     hearing     |      /ˈhɪə.rɪŋ/       |       /ˈhɪr.ɪŋ/       | 听觉 |
+|      face       |        /feɪs/         |        /feɪs/         |  脸  |
+|      cheek      |        /tʃiːk/        |        /tʃiːk/        | 脸颊 |
+|       jaw       |        /dʒɔː/         |        /dʒɑː/         | 下巴 |
+|      beard      |        /bɪəd/         |        /bɪrd/         | 胡须 |
+|                 |                       |                       |      |
+|                 |                       |                       |      |
+|                 |                       |                       |      |
+|                 |                       |                       |      |
+|                 |                       |                       |      |
+|                 |                       |                       |      |
+|                 |                       |                       |      |
+|                 |                       |                       |      |
+|                 |                       |                       |      |
+|                 |                       |                       |      |
+|                 |                       |                       |      |
+|                 |                       |                       |      |
+|                 |                       |                       |      |
+
+## Viscus内脏
+
+|       |      |      |      |
+| :---: | :--: | ---- | :--: |
+| organ |      |      | 器官 |
+|       |      |      |      |
+|       |      |      |      |
+|       |      |      |      |
+
+
+
+
+
